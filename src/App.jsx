@@ -1,4 +1,4 @@
-import re
+import react from "react";
 import {btn} from "./btn";
 import Hello from "./Hello";
 function App(){
